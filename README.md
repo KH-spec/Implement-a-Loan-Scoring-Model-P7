@@ -173,8 +173,8 @@ Ce projet vise à développer un modèle de scoring pour une société financiè
 ### Liens
 - **App Streamlit** : [Lien vers le Dashboard](https://bit.ly/dashboard3hkDxiN)
 - **Dépôts GitHub** :
-  - [Dashboard Streamlit](https://github.com/KH-spec/loan-dash-strmlt)
-  - [API Flask](https://github.com/KH-spec/app_api_flask)
+  - [Streamlit Dashboard](https://github.com/KH-spec/Implement-a-Loan-Scoring-Model-P7-Part-1)
+  - [Flask API](https://github.com/KH-spec/Implement-a-Loan-Scoring-Model-P7-Part-2)
 
 ---
 
